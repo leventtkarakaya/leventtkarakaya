@@ -7,11 +7,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=leventtkarakaya&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-"Yenilikçi, kullanıcı odaklı ve performans odaklı web uygulamaları geliştiririm."
 
-Skills: HTML / CSS / JAVASCRİPT / REACT / VUE 
-
-
+Makine önlisans mezunu ve kalite kontrol deneyimine sahip bir yazılım geliştiriciyim. Üçüncü Binyıl Akademisi'nde frontend development eğitimi aldım ve halen kendimi bu alanda geliştirmekteyim. HTML, CSS, JavaScript, React ve Tailwindcss gibi web teknolojilerine hakimim. Yaratıcı, öğrenmeye hevesli ve takım çalışmasına yatkın biriyim.
+---
+Üçüncü Binyıl Akademisi Frontend Development Eğitimi (2021-2022)
+- 6 aylık yoğunlaştırılmış eğitim programı
+- Web tasarımı ve geliştirme konularında teorik ve pratik bilgi edinme
+- HTML, CSS, JavaScript, React ve Tailwindcss gibi web teknolojilerini kullanma
+- Kişisel ve grup projeleri yapma
+---
 - 🔭 I’m currently working on https://github.com/leventtkarakaya/Burger_Land 
 - 📫 How to reach me: leventtkarakaya@gmail.com 
 - 😄 Pronouns: 👨🏽‍💻

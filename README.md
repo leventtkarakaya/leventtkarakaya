@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=leventtkarakaya&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Makine Önlisans mezunu ve kalite kontrol deneyimine sahip bir yazılım geliştiriciyim. Üçüncü Binyıl Akademisi'nde frontend development eğitimi aldım ve halen kendimi bu alanda geliştirmekteyim. HTML, CSS, JavaScript, React ve Tailwindcss gibi web teknolojilerine hakimim. Yaratıcı, öğrenmeye hevesli ve takım çalışmasına yatkın biriyim.
+Makine Önlisans mezunu olup vede bir yazılım geliştiriciyim. Üçüncü Binyıl Akademisi'nde frontend development eğitimi aldım ve halen kendimi bu alanda geliştirmekteyim. HTML, CSS, JavaScript, React ve Tailwindcss gibi web teknolojilerine hakimim. Yaratıcı, öğrenmeye hevesli ve takım çalışmasına yatkın biriyim.
 ---
 Üçüncü Binyıl Akademisi Frontend Development Eğitimi (2023-2024)
 - 6 aylık yoğunlaştırılmış eğitim programı

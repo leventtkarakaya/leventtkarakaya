@@ -8,12 +8,13 @@
 [![](https://visitcount.itsvg.in/api?id=leventtkarakaya&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Makine Önlisans mezunu olup vede bir yazılım geliştiriciyim. Üçüncü Binyıl Akademisi'nde frontend development eğitimi aldım ve halen kendimi bu alanda geliştirmekteyim. HTML, CSS, JavaScript, React ve Tailwindcss gibi web teknolojilerine hakimim. Yaratıcı, öğrenmeye hevesli ve takım çalışmasına yatkın biriyim.
+Üçüncü Binyıl Akademisi'nde Frontend development eğitimi aldım ve halen kendimi bu alanda geliştirmekteyim. HTML, CSS, JavaScript, React ve Vue gibi web teknolojilerine hakimim. Yaratıcı, öğrenmeye hevesli ve takım çalışmasına yatkın biriyim.
 ---
 Üçüncü Binyıl Akademisi Frontend Development Eğitimi (2023-2024)
 - 6 aylık yoğunlaştırılmış eğitim programı
 - Web tasarımı ve geliştirme konularında teorik ve pratik bilgi edinme
-- HTML, CSS, JavaScript, React ve Tailwindcss gibi web teknolojilerini kullanma
+- HTML, CSS, JavaScript, React ve Vue gibi web teknolojilerini kullanma
+- Node.Js Express.Js MongoDB Kullanarak Backend Geliştirmekteyim
 - Kişisel ve grup projeleri yapma
 ---
 - 🔭 I’m currently working on https://github.com/leventtkarakaya/Burger_Land 

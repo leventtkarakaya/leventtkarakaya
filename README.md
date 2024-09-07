@@ -1,4 +1,4 @@
-![Frontend-Development](https://camo.githubusercontent.com/8ae85eb04d632f37ae7a1c00f1c3b76a0e818a4a13f640be5ff189ff2a10d905/68747470733a2f2f73352e67696679752e636f6d2f696d616765732f53693339512e706e67)
+
 <h1 align="center"> Hi there 👋, Levent KARAKAYA</h1> 
 <h2 align="center"> FrontEnd-Development</h2> 
 
